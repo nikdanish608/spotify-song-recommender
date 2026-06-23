@@ -1,3 +1,4 @@
+// Version 1.4 - Added error handling loops for invalid inputs
 // Version 1.3 - Added Top Hits section with 10 popular songs
 // Version 1.2 - Added Mood and Activity recommendations
 // Version 1.1 - Added Genre recommendations with 8 genres
