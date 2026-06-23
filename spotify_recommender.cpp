@@ -1,3 +1,4 @@
+// Version 1.1 - Added Genre recommendations with 8 genres
 #include <iostream>
 #include <string>
 #include <iomanip>
