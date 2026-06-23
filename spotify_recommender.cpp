@@ -1,3 +1,4 @@
+// Version 1.5 - Added continue loop to ask user if they want to try again
 // Version 1.4 - Added error handling loops for invalid inputs
 // Version 1.3 - Added Top Hits section with 10 popular songs
 // Version 1.2 - Added Mood and Activity recommendations
